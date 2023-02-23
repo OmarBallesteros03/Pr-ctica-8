@@ -6,3 +6,5 @@ app.get('/', function (req, res) {
 })
 
 app.listen(3000)
+
+//ejecutar primero en terminal para abrir en navegador
